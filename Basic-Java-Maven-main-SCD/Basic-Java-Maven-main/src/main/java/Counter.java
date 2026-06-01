@@ -1,3 +1,5 @@
+// berhasil 1
+
 package src.main.java;
 
 public class Counter {
